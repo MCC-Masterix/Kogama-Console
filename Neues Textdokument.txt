@@ -254,7 +254,7 @@ top.format=format=str=>{//ff0011->[255,0,17]
 	});
 	el=make('div');
 	el.id='console_head';
-	el.innerHTML='masterix test V2';
+	el.innerHTML='masterix test V666';
 	el.style=`
 		width:100%;height:10%;
 		background-color:#202225;
